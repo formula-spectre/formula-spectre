@@ -15,10 +15,9 @@ I also go by:
 
 
 
+my site is https://formula-spectre.github.io/voidnetsphere/
 
-
-
-[ungovernable](https://user-images.githubusercontent.com/61557475/205432885-8fe04092-e329-4662-b9fd-422261c2a9b9.jpg)
+[become ungovernable](https://user-images.githubusercontent.com/61557475/205432885-8fe04092-e329-4662-b9fd-422261c2a9b9.jpg)
 
 
 <!---
