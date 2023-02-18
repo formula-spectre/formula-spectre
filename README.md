@@ -12,7 +12,8 @@ I also go by:
 - purity-piped
 - spektrum_light
 - ..?!  
-
+- metamorfuoco
+- metamorphire
 
 
 my site is https://formula-spectre.github.io/voidnetsphere/
